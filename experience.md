@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Research Career
+title: Research Experience
 ---
 
 <br/>
 
-# Research Experience
 
 ### 2021 to present
 #### Research Associate, Dept. of Psychology, Chungnam National University, Daejeon, Korea.
