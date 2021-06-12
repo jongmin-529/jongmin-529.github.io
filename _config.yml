@@ -14,7 +14,7 @@ author: Jongmin Lee
 navbar-links:
   Publication: "publication"
   Presentation: "presentation"
-  CV: "cv"
+  CV: "/assets/cv_folder/JMcv_latest.pdf"
   GitHub: "https://github.com/jongmin-529"
 #   Career: "career"
 #   Project: "project"
