@@ -15,7 +15,7 @@ navbar-links:
   Publication: "publication"
   Presentation: "presentation"
   Experience: "experience"
-  Project: "project"
+#   Project: "project"
   CV: "/assets/cv_folder/JMcv_latest.pdf"
   GitHub: "https://github.com/jongmin-529"
 #   Career: "career"
