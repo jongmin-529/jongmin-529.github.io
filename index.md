@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welocome!
+title: Welcome!
 subtitle: This is Jongmin's website
 cover-img: /assets/img/jongmin2.jpg
 ---
