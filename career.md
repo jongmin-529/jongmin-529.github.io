@@ -36,7 +36,7 @@ title: Research Career
   * Designed and led a project on clarifying the mechanism of multi-target visual search
 
 ### 2017 to 2019
-#### Graduate Research Assistant, Dept. of Psychology, Chungnam National University, Daejeon, Korea.
+#### Undergraduate Research Internship, Dept. of Psychology, Chungnam National University, Daejeon, Korea.
 
 * Project: _**Investigation of the interaction between selective attention and working memory and their effects on cognitive processing**_
   * Advisor: Dr. Suk Won Han
