@@ -11,8 +11,8 @@ cover-img: /assets/img/jongmin2.jpg
 
 I am a post-master research associate in Cognitive Neuroscience Unit headed by [Dr. Suk Won Han](https://sites.google.com/view/sukwonhan/home?authuser=0) at Chungnam National university. 
 I am currently leading a project on investigating the neural mechanism of stimulus-driven attention and stimulus evaluation.
-My interest lies in visual attention, visual search, working memory, and the neural basis of human information processing.
-With behavioral and neuroscientific approaches, I seek to understand how people can efficiently process a variety of information under the capacity limitation of the human brain.
+My interest lies in visual attention, visual search, working memory, and neural basis of human information processing.
+With behavioral and neuroscientific approaches, I seek to understand how people efficiently process a variety of information under capacity limitation of human brain.
 
 ## Education
 
