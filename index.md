@@ -20,8 +20,9 @@ With behavioral and neuroscientific approaches, I seek to understand how people 
   - (2019 – 2021) M.A. in Psychology 
 
 - Chungnam National University, Daejeon, Korea.
-  - (2013 – 2019) B.A. in Psychology 
-  - (2014 - 2015) Mandatary military service
+  - (2013 – 2019) B.A. in Psychology
+  - (2013 – 2019) B.S. in Interdisciplinary Studies (Psychology and Computer Science) 
+  - (2014 - 2015) Mandatory military service
 
 
 ## Research Interests
