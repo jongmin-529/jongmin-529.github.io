@@ -32,4 +32,4 @@ With behavioral and neuroscientific approaches, I seek to understand how people 
 - Visual search
 - Working memory
 - fMRI
-- Multi-Voxel Pattern Analysis
+
