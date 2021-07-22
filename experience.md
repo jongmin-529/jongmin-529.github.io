@@ -25,7 +25,7 @@ title: Research Experience
 * Project: **Biomarker verification in senile disease**
   * **Research Assistant**, Dept. of Preventive Medicine, College of Medicine, Eulji University, Daejeon, Korea.
   * Supervisor: Dr. Mira Park
-  * Contributed and engaged in a project verifying the biomarker in senile disease by preprocessing neuroimaging data
+  * Contributed and engaged in a project on verifying the biomarker in senile disease and performed neuroimaging data preprocessing
 
 <hr>
 
@@ -33,7 +33,8 @@ title: Research Experience
 * Project: **Investigation of the interaction between selective attention and working memory and their effects on cognitive processing**
   * **Graduate Research Assistant**, Dept. of Psychology, Chungnam National University, Daejeon, Korea.
   * Advisor: Dr. Suk Won Han
-  * Designed and led a project on clarifying the mechanism of multi-target visual search
+  * Designed and led a project on clarifying under which condition visual search becomes more serial or parallel by utilizing a multi-target search task
+
 
 <hr>
 
@@ -41,7 +42,7 @@ title: Research Experience
 * Project: **Investigation of the interaction between selective attention and working memory and their effects on cognitive processing**
   * **Undergraduate Research Internship**, Dept. of Psychology, Chungnam National University, Daejeon, Korea.
   * Advisor: Dr. Suk Won Han
-  * Designed and led a project on examining the interaction between visual and central attention
+  * Designed and led a project on examining whether the interplay of working memory encoding or response selection and visual search is modulated by the nature of search process
 
 <br>
 
