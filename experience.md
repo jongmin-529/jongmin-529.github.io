@@ -40,7 +40,7 @@ title: Research Experience
 
 #### 2017 to 2019
 * Project: Investigation of the interaction between selective attention and working memory and their effects on cognitive processing
-  * ,Department of Psychology, Chungnam National University, Daejeon, Korea.
+  * Department of Psychology, Chungnam National University, Daejeon, Korea.
   * Undergraduate Research Internship (Advisor: Dr. Suk Won Han)
   * Designed and led a project on examining whether the interplay of working memory encoding or response selection and visual search is modulated by the nature of search process
 
