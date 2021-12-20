@@ -17,5 +17,9 @@ title: Publication
 
 ### Conference Abstract
 
+- **Jongmin Lee**, Cheol Hwan Kim and Suk Won Han. (2021). Exploring the neural correlates of stimulus-driven reorienting and stimulus evaluation. _Journal of Vision_, 21(9), 2145-2145. [_Link_](https://jov.arvojournals.org/article.aspx?articleid=2776827)
+
 - **Jongmin Lee**, and Suk Won Han. (2019). Visual search proceeds concurrently during the attentional blink and response selection bottleneck. _Journal of Vision, 19_(10), 17a-17a. [_Link_](https://jov.arvojournals.org/article.aspx?articleid=2749915)
+
+
 
