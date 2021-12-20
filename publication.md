@@ -7,8 +7,6 @@ title: Publication
 
 ### Journal Papers
 
-#### SCI/SCIE
-
 - **Jongmin Lee**, Koeun Jung, and Suk Won Han. (2021). Serial, self-terminating search can be distinguished from others: Evidence from multi-target search data. _Cognition, 212,_ 104736. [_Link_](https://www.sciencedirect.com/science/article/pii/S0010027721001554?via%3Dihub)
 
 
