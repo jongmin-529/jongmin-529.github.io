@@ -5,44 +5,37 @@ title: Research Experience
 
 <br>
 
-#### 2021 to present
+#### Mar.2021 to present
 * Project: Investigation of neural substrates underlying the processes of accumulating sensory evidence and decision-making
-  * Department of Psychology, Chungnam National University, Daejeon, Korea.
+  * Cognitive Neuroscience Lab, Department of Psychology, Chungnam National University
   * Research Associate (Advisor: Dr. Suk Won Han)
-  * Leading an fMRI project to investigate the neural mechanism of stimulus-driven attention and stimulus evaluation
+  * Direct an fMRI project on analyzing the neural mechanism of stimulus-driven attention and stimulus evaluation
 
 <hr>
 
-#### 2020 to 2021
+#### Mar.2019 to Feb.2021
 * Project: Investigation of neural substrates underlying the processes of accumulating sensory evidence and decision-making
-  * Department of Psychology, Chungnam National University, Daejeon, Korea.
+  * Cognitive Neuroscience Lab, Department of Psychology, Chungnam National University
   * Graduate Research Assistant (Advisor: Dr. Suk Won Han)
-  * Implemented and led an fMRI project to investigate the neural mechanism of stimulus-driven attention and stimulus evaluation
+  * Implemented and led an fMRI project on investigating the neural mechanism of stimulus-driven attention and stimulus evaluation
+  * Designed and executed a project on clarifying under which condition visual search becomes more serial or parallel by utilizing a multi-target search task
+
 
 <hr>
 
-#### 2020
+#### Oct.2020 to Dec.2020
 * Project: Biomarker verification in senile disease
-  * Department of Preventive Medicine, College of Medicine, Eulji University, Daejeon, Korea.
+  * Department of Preventive Medicine, College of Medicine, Eulji University
   * Research Assistant (advisor: Dr. Mira Park)
-  * Contributed and engaged in a project on verifying the biomarker in senile disease and performed neuroimaging data preprocessing
+  * Participated in a project on verifying the biomarker in senile disease and performed neuroimaging data preprocessing
 
 <hr>
 
-#### 2019 to 2020
+#### Aug.2017 to Feb.2019
 * Project: Investigation of the interaction between selective attention and working memory and their effects on cognitive processing
-  * Department of Psychology, Chungnam National University, Daejeon, Korea.
-  * Graduate Research Assistant (Advisor: Dr. Suk Won Han)
-  * Designed and led a project on clarifying under which condition visual search becomes more serial or parallel by utilizing a multi-target search task
-
-
-<hr>
-
-#### 2017 to 2019
-* Project: Investigation of the interaction between selective attention and working memory and their effects on cognitive processing
-  * Department of Psychology, Chungnam National University, Daejeon, Korea.
+  * Cognitive Neuroscience Lab, Department of Psychology, Chungnam National University
   * Undergraduate Research Internship (Advisor: Dr. Suk Won Han)
-  * Designed and led a project on examining whether the interplay of working memory encoding or response selection and visual search is modulated by the nature of search process
+  * Led a project on examining the interplay between working memory encoding or response selection and visual search modulated by the nature of search process
 
 <br>
 
